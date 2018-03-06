@@ -1,21 +1,21 @@
 apiVersion: v1
 entries:
   alpha-global-helm:
-  - created: 2018-03-06T15:37:02.602067081Z
+  - created: 2018-03-06T15:50:01.563125883Z
     description: Deploy an Alpha
     digest: 3191f0fef37d14941c5995fec513171325827a1637595ad9894130146d2a754b
     name: alpha-global-helm
     urls:
     - alpha-global-helm-0.0.3.tgz
     version: 0.0.3
-  - created: 2018-03-06T15:37:02.601921129Z
+  - created: 2018-03-06T15:50:01.562977047Z
     description: Deploy an Alpha
     digest: cc4b749488afdc347c1204a9948d15ef08ad6d616fe36cae4cb622830c8835eb
     name: alpha-global-helm
     urls:
     - alpha-global-helm-0.0.2.tgz
     version: 0.0.2
-  - created: 2018-03-06T15:37:02.601777147Z
+  - created: 2018-03-06T15:50:01.562820523Z
     description: Deploy an Alpha
     digest: 5b1b1e6c8f47dd10e13f87847a917940427c1ea23c7a7e83f16a714719179a23
     name: alpha-global-helm
@@ -23,11 +23,11 @@ entries:
     - alpha-global-helm-0.0.1.tgz
     version: 0.0.1
   alpha-market-helm:
-  - created: 2018-03-06T15:37:02.602296021Z
+  - created: 2018-03-06T15:50:01.563342557Z
     description: Deploy an Alpha Market
-    digest: 71312f39433bcaecd36122a3fdfd230f9d1e20aa592835ed1594763676e5966a
+    digest: 64671e7fdd6a84ae3a2c5f1d370011e70006dfaa9388f9a971666f5b42b8a578
     name: alpha-market-helm
     urls:
     - alpha-market-helm-0.0.1.tgz
     version: 0.0.1
-generated: 2018-03-06T15:37:02.601479293Z
+generated: 2018-03-06T15:50:01.562542667Z
